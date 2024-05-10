@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:movie_app/ui/pages/downloaded_page/download_page.dart';
 import 'package:movie_app/ui/pages/profile_page/profile_page.dart';
-import 'package:movie_app/ui/pages/search_page.dart';
+import 'package:movie_app/ui/pages/search_page/search_page.dart';
 
 import 'package:movie_app/utils/consts/style_const.dart';
 
