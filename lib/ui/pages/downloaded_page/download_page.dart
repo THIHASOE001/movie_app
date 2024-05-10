@@ -1,0 +1,18 @@
+import 'package:flutter/material.dart';
+import 'package:movie_app/utils/consts/style_const.dart';
+
+class DownloadPage extends StatefulWidget {
+  const DownloadPage({super.key});
+
+  @override
+  State<DownloadPage> createState() => _DownloadPageState();
+}
+
+class _DownloadPageState extends State<DownloadPage> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: AppStyle.bgColor,
+    );
+  }
+}
